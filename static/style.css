@@ -1,0 +1,11 @@
+@import url(./index.css);
+@import url(./blog.css);
+@import url(./sidebar.css);
+
+
+/* others css */
+body {
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
